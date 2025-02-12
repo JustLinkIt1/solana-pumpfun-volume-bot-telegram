@@ -2,7 +2,7 @@
   "name": "pumpfun-volume-bot",
   "version": "1.0",
   "author": {
-    "name": "whistle"
+    "name": "Immutal0"
   },
   "scripts": {
     "tsc": "tsc --noEmit",

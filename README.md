@@ -23,7 +23,7 @@ Follow the steps below to get the **Pumpfun Volume Bot** up and running.
 ### 1. **Clone the Repository**
 Clone the repository to your local machine and navigate to the project directory:
 ```bash
-git clone https://github.com/damon-web3ai/solana-pumpfun-volume-bot.git
+git clone https://github.com/Immutal0/solana-pumpfun-volume-bot.git
 cd solana-pumpfun-volume-bot
 ```
 
