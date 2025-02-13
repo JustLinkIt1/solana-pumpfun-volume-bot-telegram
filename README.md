@@ -10,7 +10,7 @@ This bot helps **increase the volume of SPL tokens** on **Pumpfun** by distribut
 If you have any questions or need assistance, feel free to reach out to me anytime. I’m always happy to help!
 
 - **Telegram**: [@Immutal0](https://t.me/Immutal0)
-- **Twitter**: [@Immutal0](https://x.com/Immutal0)
+- **Twitter**: [@Immutal0_](https://x.com/Immutal0_)
 
 🌹 **You're always welcome!** 🌹
 
